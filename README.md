@@ -1,5 +1,6 @@
 # Competitive-Solutions
 
+This repository consists of my attempt to various coding problems from different platforms like hacekrrank , hackerearth , spoj etc.
 
 # A reminder to all visitors
 
